@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1539162961 source:c:\users\rishav\desktop\project 2 try 2\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+
+1539230235 source:d:\c++ programs\projects\fighting_plane\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<time.h>
+
