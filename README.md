@@ -23,3 +23,7 @@ Game will be over when you let the enemy touch you. <br>
     Double score ability increase your socre at 2x rate.
   </dd>
 </dl>
+
+# Command
+### `To compile: cpp main.cpp`
+### `To run: ./a.out`
